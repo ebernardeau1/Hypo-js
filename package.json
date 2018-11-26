@@ -1,0 +1,6 @@
+{
+  "name": "hypo-js",
+  "version": "1.0.0",
+  "description": "librairie Javascript reprenant un ensemble de fonctions financières utilisées dans le cadre d'emprunt ou de de placement",
+  "dependencies": {}
+}
